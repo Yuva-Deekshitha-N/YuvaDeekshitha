@@ -136,33 +136,13 @@ Full Stack MERN application for certificate submission, verification, and tracki
 - Collaborated with teams to design, develop, and present innovative software solutions.
 
 ---
-# 🌍 Open Source
 
-- Contributing to open-source software
-- Learning industry best practices
-- Improving backend functionality
-- Writing documentation
-- Solving GitHub Issues
-
----
 # 🏆 Achievements
 
 - ⭐ Current CGPA: 9.53
 - 🌍 Active Open Source Contributor
 - 🎯 Organized the Ideathon during the annual college fest, coordinating ideation sessions and student participation
 - 🤖 Participated in Google GenAI Study Jams, gaining hands-on experience with Generative AI concepts and tools
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuva-Deekshitha-N&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuva-Deekshitha-N&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -173,42 +153,13 @@ Full Stack MERN application for certificate submission, verification, and tracki
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuva-Deekshitha-N&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yuva-Deekshitha-N&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Yuva-Deekshitha-N/Yuva-Deekshitha-N/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 # ⭐ Support
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-It motivates me to build more useful projects.
-
 ---
 
 <p align="center">
-Thanks for visiting my profile ❤️
+Thanks for visiting my profile.
 </p>
 
-<p align="center">
-⭐ Happy Coding ⭐
-</p>
